@@ -97,8 +97,10 @@ We build our code based on [ReFine](https://github.com/Wuyxin/ReFine) and would 
 <h2 id="References">References</h2>
 <a id="1">[1]</a> 
 Wang, Xiang, et al. "Towards multi-grained explainability for graph neural networks." Advances in Neural Information Processing Systems 34 (2021): 18446-18458.  
+
 <a id="2">[2]</a> 
 Krishna, Ranjay, et al. "Visual genome: Connecting language and vision using crowdsourced dense image annotations." International journal of computer vision 123 (2017): 32-73.  
+
 <a id="3">[3]</a> 
 Luo, Dongsheng, et al. "Parameterized explainer for graph neural network." Advances in neural information processing systems 33 (2020): 19620-19631.  
 
