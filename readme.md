@@ -1,7 +1,7 @@
 # MatchExplainer for Explaining Graph Neural Networks (ICML 2023) 
 This is the code for our ICML 2023 paper **Rethinking Explaining Graph Neural Networks via Non-parametric Subgraph Matching** 
-[[arXiv](https://arxiv.org/abs/2301.02780)].
-we propose a novel non-parametric subgraph matching framework, dubbed MatchExplainer, to explore explanatory subgraphs. 
+[[arXiv](https://arxiv.org/abs/2301.02780)][[ICML](https://proceedings.mlr.press/v202/wu23j.html)].
+We propose a novel non-parametric subgraph matching framework, dubbed MatchExplainer, to explore explanatory subgraphs. 
 It couples the target graph with other counterpart instances and identifies the most crucial joint substructure by minimizing the node corresponding-based distance. 
 
 <p align="center"><img src="model.jpg" alt="drawing" width="800"/></p>
@@ -80,11 +80,11 @@ Except `OSError`, you might find `undefined symbol` (e.g., _ZN2at6detail20Dynami
 Just clear the pip cache and reinstall the respective package. You can refer to [Frequently Asked Questions](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html) for more help. 
 
 
-
 <h2 id="How-to-cite">How to cite and acknowledgements</h2>
+
 If you find our paper helpful and interesting, please consider citing our paper. Thank you! :)
 Any kind of question is welcome, and you can directly pull an issue or email [Fang WU](mailto:fw2359@columbia.edu). 
-This work is highly supported by [MindRank AI](), a start-up AI drug discovery company in Hangzhou, and was done when Fang Wu was an intern there. 
+This work is highly supported by [MindRank AI](https://www.mindrank.ai/en), a start-up AI drug discovery company in Hangzhou, and was done when Fang Wu was an intern there. 
 We build our code based on [ReFine](https://github.com/Wuyxin/ReFine) and would like to thank Yuxin Wu for her open-source spirit. 
 
 ```markdown
